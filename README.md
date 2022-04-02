@@ -7,6 +7,7 @@ Accountability Accounting, a prominent investment bank, is interested in offerin
 
 ## Resources
 
+Data- https://github.com/cherylberger/Crypotcurrencies/blob/main/Resources/crypto_data.csv
 ## Results:
 
 ### Deliverable 1: Preprocess the Data for PCA
