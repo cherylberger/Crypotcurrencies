@@ -6,7 +6,7 @@ Module 18 - Data Analytics
 Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. This analysis will be used to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
 ## Resources
-
+Code- https://github.com/cherylberger/Crypotcurrencies/blob/main/crypto_clustering.ipynb
 Data- https://github.com/cherylberger/Crypotcurrencies/blob/main/Resources/crypto_data.csv
 ## Results:
 
